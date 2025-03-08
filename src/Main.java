@@ -14,10 +14,10 @@ public class Main {
         System.out.println("Please enter the decimal number: ");
         double second_number = scanner.nextDouble();
 
-        //Turning integer to decimal
+        //Converts integer to decimal
         double decimal_firstnumber = first_number;
 
-        //Turning decimal to integer
+        //Converts decimal to integer
         int integer_secondnumber = (int) second_number;
 
         //Showing result
